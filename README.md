@@ -9,8 +9,10 @@
 
 ## Icono y nombre
 
-Los catrines 
+"Los catrines" 
 
+
+![image](https://github.com/user-attachments/assets/c38bc645-ea0e-484e-a1ae-be6283e24c0f)
 
 
 
