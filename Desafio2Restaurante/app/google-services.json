@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577687214270",
+    "project_id": "desafio2dsm-c192e",
+    "storage_bucket": "desafio2dsm-c192e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577687214270:android:aba5441acb7d03ea05a6ef",
+        "android_client_info": {
+          "package_name": "com.example.desafio2restaurante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdM8yo7vzX78fG0hCQiQGQKy89fHc9dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

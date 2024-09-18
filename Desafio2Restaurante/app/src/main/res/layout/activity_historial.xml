@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HistorialActivity">
+
+    <LinearLayout
+        android:layout_width="368dp"
+        android:layout_height="733dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.372"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+    <TextView
+    android:id="@+id/textView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Historial de compras"
+    tools:layout_editor_absoluteX="116dp"
+    tools:layout_editor_absoluteY="40dp"
+    tools:ignore="MissingConstraints"
+        android:textSize="30dp"
+        android:textColor="@color/cereza"
+        android:layout_weight="1000"
+        android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1000"
+            android:textSize="15dp"
+            android:text=" 20/05/2024 Se realizo una compra de un total $150" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1000"
+            android:textSize="15dp"
+            android:text="27/05/2024 Se realizo una compra de un total $30" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1000"
+            android:textSize="15dp"
+            android:text="15/06/2024 Se realizo una compra de un total $320"/>
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1000"
+            android:textSize="15dp"
+
+            android:text="17/07/2024 Se realizo una compra de un total $82.50"/>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1000"
+            android:textSize="15dp"
+            android:text="03/08/2024 Se realizo una compra de un total $55.70"/>
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1000"
+            android:textSize="15dp"
+            android:text="13/09/2024 Se realizo una compra de un total $78.90" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
